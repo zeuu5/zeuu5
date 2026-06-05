@@ -1,16 +1,60 @@
-## Hi there 👋
 
-<!--
-**zeuu5/zeuu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Adwaith 👋
 
-Here are some ideas to get you started:
+Cybersecurity student with a strong interest in ethical hacking, web security, and security automation.  
+Currently focused on building practical skills through hands-on labs, projects, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 Areas of Interest
+- Ethical Hacking
+- Web Application Security
+- OSINT & Reconnaissance
+- Red Teaming
+- Linux & Networking
+- Security Automation
+
+---
+
+## 🛠 Technologies & Tools
+- Python
+- Linux
+- Git & GitHub
+- Burp Suite
+- Nmap
+- Wireshark
+- Docker
+
+---
+
+## 📚 Currently Learning
+- Advanced Web Pentesting
+- Network Security
+- Active Directory Fundamentals
+- CompTIA Security+ Concepts
+
+---
+
+## 🚀 Projects
+- Scam Reporting Platform
+- OSINT Research Tool
+- BadUSB Learning Lab
+- Security Testing Practice Labs
+
+---
+
+## 🎯 Goals
+- Strengthen offensive security skills
+- Build impactful cybersecurity projects
+- Gain real-world security experience
+- Contribute to the cybersecurity community
+
+---
+
+## 🌐 Connect
+- LinkedIn:
+- TryHackMe:
+- HackTheBox:
+```
+
+
