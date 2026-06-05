@@ -1,60 +1,37 @@
-
 # Hi, I'm Adwaith 👋
 
-Cybersecurity student with a strong interest in ethical hacking, web security, and security automation.  
-Currently focused on building practical skills through hands-on labs, projects, and continuous learning.
+Cybersecurity enthusiast focused on ethical hacking, web security, and security research.
 
----
+## 🔐 Interests
 
-## 🔐 Areas of Interest
-- Ethical Hacking
-- Web Application Security
-- OSINT & Reconnaissance
-- Red Teaming
-- Linux & Networking
-- Security Automation
+* Ethical Hacking
+* Web Security
+* OSINT
+* Red Teaming
 
----
+## 🛠 Tech Stack
 
-## 🛠 Technologies & Tools
-- Python
-- Linux
-- Git & GitHub
-- Burp Suite
-- Nmap
-- Wireshark
-- Docker
+* Python
+* Linux
+* Networking
+* Burp Suite
+* Wireshark
+* Nmap
+* Git & GitHub
 
----
+## 🚀 Featured Projects
 
-## 📚 Currently Learning
-- Advanced Web Pentesting
-- Network Security
-- Active Directory Fundamentals
-- CompTIA Security+ Concepts
+* WebHound
+* ScamSense
+* Aegis
 
----
+## 📚 Currently Exploring
 
-## 🚀 Projects
-- Scam Reporting Platform
-- OSINT Research Tool
-- BadUSB Learning Lab
-- Security Testing Practice Labs
-
----
-
-## 🎯 Goals
-- Strengthen offensive security skills
-- Build impactful cybersecurity projects
-- Gain real-world security experience
-- Contribute to the cybersecurity community
-
----
+* Web Pentesting
+* Security Automation
+* Network Security
 
 ## 🌐 Connect
-- LinkedIn:
-- TryHackMe:
-- HackTheBox:
-```
 
-
+* GitHub: github.com/zeuu5
+* LinkedIn: linkedin.com/in/adwaithur
