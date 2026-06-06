@@ -22,7 +22,6 @@ Cybersecurity enthusiast focused on ethical hacking, web security, and security 
 
 * WebHound
 * ScamSense
-* Aegis
 
 ## 📚 Currently Exploring
 
