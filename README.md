@@ -17,7 +17,6 @@ Cybersecurity enthusiast focused on ethical hacking, web security, and security 
 * Burp Suite
 * Wireshark
 * Nmap
-* Git & GitHub
 
 ## 🚀 Featured Projects
 
