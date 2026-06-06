@@ -33,5 +33,4 @@ Cybersecurity enthusiast focused on ethical hacking, web security, and security 
 
 ## 🌐 Connect
 
-* GitHub: github.com/zeuu5
 * LinkedIn: linkedin.com/in/adwaithur
