@@ -26,7 +26,6 @@ Cybersecurity enthusiast focused on ethical hacking, web security, and security 
 ## 📚 Currently Exploring
 
 * Web Pentesting
-* Security Automation
 * Network Security
 
 ## 🌐 Connect
