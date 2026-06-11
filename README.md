@@ -1,37 +1,40 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9,4f46e5,7c3aed&height=200&section=header&text=ADWAITH%20U%20R&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Offensive%20Security%20%7C%20Penetration%20Tester%20%7C%20Red%20Team%20Aspirant&descAlignY=58&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f,6d28d9,4f46e5&height=220&section=header&text=ADWAITH%20U%20R&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Penetration%20Tester%20%7C%20Ethical%20Hacker%20%7C%20Red%20Team%20Aspirant&descAlignY=60&descSize=16&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Security+Researcher+%26+Ethical+Hacker;Penetration+Tester+%7C+OSCP+Aspirant;Vulnerability+Assessment+%7C+CTF+Player;WebHound+%7C+Advanced+Web+Vulnerability+Scanner;Red+Team+%7C+Offensive+Security+Focused" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=640&lines=Offensive+Security+%7C+Web+Penetration+Testing;OSCP+Aspirant+%7C+Active+CTF+Player;WebHound+—+21-Module+Vulnerability+Scanner;MITRE+ATT%26CK+%7C+CVE+Research+%7C+CVSS+Scoring;Founder%2C+Aegis+Security+%7C+Calicut%2C+Kerala" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BCA-Krupanidhi%20Degree%20College-6d28d9?style=for-the-badge&logo=mortarboard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-OSCP%20Track-6d28d9?style=for-the-badge&logo=kalilinux&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Calicut%2C%20Kerala-4f46e5?style=for-the-badge&logo=googlemaps&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-7c3aed?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Red%20Team%20%7C%20Pentest%20Roles-7c3aed?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://adwaith-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=flat-square&logo=vercel&logoColor=white" />
+  <a href="https://zeuu5.github.io/adwaith-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-zeuu5.github.io-6d28d9?style=flat-square&logo=githubpages&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/adwaithur" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-adwaithur-4f46e5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:adwaithur.contact@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-7c3aed?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-adwaithur.contact-7c3aed?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/zeu5" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-zeu5-6d28d9?style=flat-square&logo=tryhackme&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/zeuu5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-6d28d9?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-zeuu5-4f46e5?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -48,69 +51,73 @@
 ## ◈ About
 
 ```
-  Cybersecurity professional focused on offensive security, penetration testing, and
-  vulnerability research. BCA graduate from Krupanidhi Degree College with practical
-  exposure across web exploitation, network analysis, and threat identification.
+  Offensive security practitioner and ethical hacker. BCA graduate (Krupanidhi Degree
+  College, Bengaluru) with a deep focus on web application penetration testing,
+  vulnerability research, and threat intelligence.
 
-  Builder of WebHound — a modular Python-based web vulnerability scanner integrating
-  SQL injection detection, XSS testing, WAF fingerprinting, MITRE ATT&CK mapping,
-  CVE lookup, and automated PDF/JSON reporting.
+  Author of WebHound — a Python-based modular web vulnerability scanner with 21+
+  modules covering SQLi, XSS, WAF detection, WAF fingerprinting, SSL/TLS analysis,
+  API security, CVSS scoring, MITRE ATT&CK mapping, CVE lookup via NVD, and
+  automated PDF/JSON reporting. Tested against real authorized targets.
 
-  Pursuing OSCP certification. Active on TryHackMe and CTF platforms.
-  Founder of Aegis Security — a cybersecurity services startup.
+  Active on TryHackMe (zeu5). CTF competitor. Pursuing OSCP.
+  Founder of Aegis Security — cybersecurity services for SMBs.
+  Secondary skill: full-stack development (Django/Python) with secure coding focus.
 ```
 
-**Open To:** `Penetration Testing Roles` · `Red Team Engagements` · `Security Research` · `Bug Bounty` · `Freelance Audits`
+**Open To:** `Penetration Testing Roles` · `Red Team Engagements` · `Bug Bounty` · `Security Research` · `Freelance Security Audits`
 
 ---
 
-## ◈ Tech Stack
+## ◈ Offensive Security Arsenal
 
 <p align="center">
-  <strong>Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,c,bash&theme=dark" />
+  <strong>Exploitation & Assessment</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Metasploit-2e3092?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Nmap-6d28d9?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>Web & Frontend</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,django&theme=dark" />
+  <strong>Threat Intelligence & Frameworks</strong><br/><br/>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-7c3aed?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CVE%20%2F%20NVD%20API-4f46e5?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CVSS%20Scoring-6d28d9?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OSINT-4f46e5?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>Backend & Databases</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark" />
+  <strong>Environment & Scripting</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github&theme=dark" />
 </p>
 
 <p align="center">
-  <strong>Security Tools & Environment</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Metasploit-2e3092?style=flat-square&logo=metasploit&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Nmap-6d28d9?style=flat-square&logo=nmap&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <strong>Development Stack (Secondary)</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=django,html,css,js,sqlite&theme=dark" />
 </p>
 
 ---
 
-## ◈ Offensive Security Expertise
+## ◈ Penetration Testing Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Proficiency | Techniques & Tools |
 |---|---|---|
-| **Web Application Pentesting** | ████████░░ Advanced | SQLi, XSS, CSRF, IDOR, SSRF, API security |
-| **Network Analysis** | ███████░░░ Intermediate | TCP/IP, packet analysis, Wireshark, Nmap |
-| **Vulnerability Assessment** | ████████░░ Advanced | CVSS scoring, CVE research, NVD API integration |
-| **OSINT & Reconnaissance** | ███████░░░ Intermediate | Passive recon, footprinting, threat profiling |
-| **Threat Mapping** | ███████░░░ Intermediate | MITRE ATT&CK framework, kill chain analysis |
-| **Secure Code Review** | ██████░░░░ Intermediate | Django backend, input validation, auth hardening |
-| **CTF & Lab Challenges** | ████████░░ Advanced | TryHackMe, web exploitation, privilege escalation |
+| **Web Application Pentesting** | ████████░░ Advanced | SQLi, XSS, CSRF, IDOR, SSRF, broken auth, API abuse |
+| **Vulnerability Assessment** | ████████░░ Advanced | CVSS scoring, CVE research, NVD API, WebHound |
+| **Reconnaissance & OSINT** | ███████░░░ Intermediate | Passive recon, footprinting, Nmap, threat profiling |
+| **Threat Intelligence** | ███████░░░ Intermediate | MITRE ATT&CK mapping, kill chain analysis, CVE triage |
+| **Network Analysis** | ███████░░░ Intermediate | TCP/IP, packet capture, Wireshark, port enumeration |
+| **CTF & Lab Exploitation** | ████████░░ Advanced | TryHackMe — web exploitation, privilege escalation, OSINT |
+| **Secure Code Review** | ██████░░░░ Developing | Django backends, input validation, auth logic, injection flaws |
 
 ---
 
@@ -120,38 +127,70 @@
 <summary><b>⚔ WebHound — Advanced Web Vulnerability Scanner</b></summary>
 <br/>
 
-> A modular, multi-threaded Python-based web vulnerability scanner engineered for automated security assessment, reconnaissance, and professional-grade reporting.
+> Modular, multi-threaded Python web vulnerability scanner engineered for automated security assessment, threat intelligence integration, and professional-grade reporting.
 
 | Attribute | Details |
 |---|---|
 | **Stack** | Python · Requests · BeautifulSoup · ReportLab · NVD API |
 | **Modules** | 21+ scanning modules |
-| **Detection** | SQLi, XSS, WAF, API Security, Security Headers, SSL/TLS |
-| **Intelligence** | CVSS Scoring · MITRE ATT&CK Mapping · CVE Lookup |
-| **Output** | PDF Reports · JSON Export · Multi-threaded architecture |
-| **Security** | Tested against real targets under authorized scope |
+| **Detection** | SQLi · XSS · WAF fingerprinting · API security · Security headers · SSL/TLS analysis |
+| **Threat Intel** | CVSS scoring · MITRE ATT&CK mapping · CVE lookup via NVD API |
+| **Output** | PDF reports · JSON export · Multi-threaded concurrent scanning |
+| **Validation** | Tested against real authorized targets |
 | **Repository** | [github.com/zeuu5/webhound](https://github.com/zeuu5/webhound) |
 
-WebHound was built as a portfolio-grade offensive security tool designed to automate the reconnaissance and vulnerability discovery phases of a web penetration test. The scanner integrates threat intelligence through NVD CVE lookup and MITRE ATT&CK mapping, enabling analysts to move from raw findings to structured, reportable output. The multi-threaded architecture allows concurrent module execution against large-scale targets with significantly reduced scan time.
+WebHound automates the web reconnaissance and vulnerability discovery phases of a penetration test. Threat intelligence is embedded directly into scan output — CVE identifiers, CVSS scores, and ATT&CK technique mappings — so findings move from raw scanner output to structured, reportable artifacts without manual enrichment. The multi-threaded architecture handles large-scale target analysis efficiently.
 
 </details>
 
 <details>
-<summary><b>🛡 ScamSense — Scam Reporting & Awareness Platform</b></summary>
+<summary><b>🔍 Cyber Threat Hub — Automated Threat Intelligence Feed</b></summary>
 <br/>
 
-> A full-stack cybersecurity awareness platform for reporting, tracking, and mapping online scams and fraudulent activities with secure data handling.
+> Automated cybersecurity threat intelligence hub that collects, curates, and publishes the latest CVEs and security news using Python and GitHub Actions.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python · GitHub Actions · RSS/API feeds |
+| **Function** | Scheduled threat feed aggregation · CVE monitoring · Automated reporting |
+| **Automation** | Fully headless — no manual intervention required after deployment |
+| **Repository** | [github.com/zeuu5/cyber-threat-hub](https://github.com/zeuu5/cyber-threat-hub) |
+
+A threat intelligence pipeline that runs on GitHub Actions to continuously pull CVE data and security advisories, keeping a live, updated feed of emerging vulnerabilities. Designed around the principle of automating the analyst's daily threat digest.
+
+</details>
+
+<details>
+<summary><b>🛡 Threat Watch — Real-Time Attack Detection Lab</b></summary>
+<br/>
+
+> Simulated attack detection and monitoring environment built with Flask, designed to detect and log brute force attempts, SQL injection, and XSS in real time.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python · Flask · Detection logic |
+| **Simulated Attacks** | Brute force · SQL injection · XSS |
+| **Purpose** | Blue team understanding · Attack pattern recognition · Defensive logging |
+| **Repository** | [github.com/zeuu5/threat-watch](https://github.com/zeuu5/threat-watch) |
+
+Threat Watch is a hands-on defensive security lab that simulates real attack vectors in a controlled Flask environment. Built to develop intuition for how attacks behave at the application layer — useful for both red team context and blue team detection rule tuning.
+
+</details>
+
+<details>
+<summary><b>📡 ScamSense — Cybercrime Reporting & Awareness Platform</b></summary>
+<br/>
+
+> Full-stack Django platform for reporting, tracking, and visualizing online scams with heatmap-based geographic scam distribution analysis.
 
 | Attribute | Details |
 |---|---|
 | **Stack** | Python · Django · HTML · CSS · JavaScript · SQLite |
-| **Features** | Scam reporting workflow · Category filtering · Awareness modules |
-| **Geo** | Location-based scam mapping |
-| **Security** | Secure input handling · Data integrity · Auth protection |
-| **Focus** | Cybersecurity awareness · User-submitted threat data |
-| **Repository** | [github.com/zeuu5/scamsense](https://github.com/zeuu5/scamsense) |
+| **Features** | Scam reporting · Category filtering · Awareness modules · Heatmap visualization |
+| **Security** | Input sanitization · Auth hardening · Injection protection |
+| **Repository** | [github.com/zeuu5/scam-sense](https://github.com/zeuu5/scam-sense) |
 
-ScamSense addresses the gap between online fraud occurrence and public awareness. The platform enables users to report scam activity categorically, visualize threat distribution geographically, and access awareness resources. Backend security was prioritized throughout, with input validation, authentication safeguards, and sanitization against common injection vectors.
+A cybersecurity awareness platform designed to crowdsource scam intelligence. Users report fraudulent activity, browse verified cases, and visualize regional threat concentration on an interactive heatmap. Security-first architecture throughout — serves as both a social tool and a demonstration of secure Django development.
 
 </details>
 
@@ -161,19 +200,18 @@ ScamSense addresses the gap between online fraud occurrence and public awareness
 
 **Django Full Stack Developer Intern** · **Maitexa Technologies** · `Jan 2025 · 1 month`
 
-Contributed to production web module development within a professional engineering environment, applying secure development practices across the full stack.
+Production web module development with an explicit security lens — applying OWASP standards and secure coding practices across all deliverables.
 
-- Developed feature modules using Python (Django), HTML, CSS, and JavaScript
-- Implemented user authentication flows and managed database operations with integrity controls
-- Applied secure coding standards including input validation and output encoding
-- Integrated basic security hardening against common OWASP vulnerabilities
+- Built web modules using Python (Django), HTML, CSS, and JavaScript
+- Implemented user authentication and database operations with integrity controls
+- Applied input validation, output encoding, and injection hardening throughout the backend
+- Hardened application surface against common OWASP vulnerability classes
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secure_Coding-6d28d9?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_Standards-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure%20Development-6d28d9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20Standards-000000?style=flat-square&logo=owasp&logoColor=white" />
 </p>
 
 ---
@@ -184,12 +222,14 @@ Contributed to production web module development within a professional engineeri
 
 | Recognition | Details |
 |---|---|
-| **WebHound** | Built 21-module web vulnerability scanner — flagship portfolio project |
-| **ScamSense** | Full-stack cybersecurity awareness platform with geo-based scam mapping |
-| **Aegis Security** | Founded cybersecurity services startup targeting SMB sector |
-| **CTF Challenges** | Active participant across multiple Capture The Flag competitions |
-| **TryHackMe** | Consistent lab completion across web exploitation and privilege escalation paths |
-| **OSCP Track** | Actively preparing for Offensive Security Certified Professional certification |
+| **WebHound** | 21-module web vulnerability scanner with MITRE ATT&CK + CVE integration |
+| **Cyber Threat Hub** | Automated threat intelligence pipeline running on GitHub Actions |
+| **Threat Watch** | Real-time attack detection lab simulating SQLi, XSS, and brute force |
+| **ScamSense** | Cybercrime reporting platform with geographic heatmap visualization |
+| **Aegis Security** | Founded cybersecurity services startup for SMB sector |
+| **TryHackMe — zeu5** | Active lab completion across web exploitation and privilege escalation paths |
+| **CTF Competitions** | Ongoing participation in Capture The Flag challenges |
+| **OSCP Track** | Actively preparing for Offensive Security Certified Professional |
 
 </div>
 
@@ -198,17 +238,19 @@ Contributed to production web module development within a professional engineeri
 ## ◈ Certifications
 
 <p align="center">
-  <strong>Security & Ethical Hacking</strong><br/><br/>
-  <img src="https://img.shields.io/badge/Cybersecurity_%26_Ethical_Hacking-Kenonics-6d28d9?style=for-the-badge&logo=shield&logoColor=white" />
+  <strong>Security Credentials</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacking-Kenonics-6d28d9?style=for-the-badge&logo=shield&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-4f46e5?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-4f46e5?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>Labs & Platforms</strong><br/><br/>
-  <img src="https://img.shields.io/badge/TryHackMe_Labs-Completed-7c3aed?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <strong>Platform Credentials</strong><br/><br/>
+  <img src="https://img.shields.io/badge/TryHackMe%20Labs-Active-7c3aed?style=for-the-badge&logo=tryhackme&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CTF_Challenges-Active-6d28d9?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF%20Challenges-Active-6d28d9?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OSCP-Preparing-4f46e5?style=for-the-badge&logo=offensivesecurity&logoColor=white" />
 </p>
 
 ---
@@ -232,7 +274,7 @@ Contributed to production web module development within a professional engineeri
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeuu5&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd&rank_icon=github&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeuu5&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd&rank_icon=github&count_private=true&show=reviews,discussions_started" height="180" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeuu5&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8" height="180" />
 </p>
@@ -270,27 +312,31 @@ Contributed to production web module development within a professional engineeri
 ## ◈ Current Focus
 
 ```yaml
+identity:
+  primary: Penetration Tester / Ethical Hacker
+  secondary: Secure Application Developer
+
 learning:
-  - OSCP exam preparation and PWK course material
-  - Advanced web exploitation techniques (SSRF, deserialization, OAuth flaws)
-  - Active Directory attack paths and lateral movement
+  - OSCP — PWK course, active lab exploitation
+  - Advanced web attack chains (SSRF, deserialization, OAuth abuse)
+  - Active Directory enumeration and lateral movement
   - Shellcoding and exploit development fundamentals
 
 building:
-  - WebHound v2 — extended module set, GUI interface, CI/CD scan integration
-  - Aegis Security — service offerings, client acquisition, security audit pipeline
-  - Personal lab environment for controlled exploitation practice
+  - WebHound v2 — GUI, extended modules, CI/CD scan pipeline
+  - Aegis Security — service portfolio, client pipeline, audit templates
+  - Home lab — controlled exploitation environment for OSCP prep
 
 exploring:
-  - Red team tooling and C2 framework internals
+  - C2 framework internals and red team tradecraft
   - Bug bounty recon automation
   - LLM-assisted vulnerability triage and report generation
 
 open_to:
-  - Penetration testing internships and entry-level red team roles
+  - Entry-level red team and penetration testing roles
   - Bug bounty collaborations
-  - Open source security tooling contributions
-  - Security consulting under Aegis Security
+  - Security consulting engagements via Aegis Security
+  - Open source offensive security tooling contributions
 ```
 
 ---
@@ -313,17 +359,22 @@ open_to:
   </a>
 </p>
 <p align="center">
-  <a href="https://adwaith-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-adwaith--portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://tryhackme.com/p/zeu5">
+    <img src="https://img.shields.io/badge/TryHackMe-zeu5-6d28d9?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://zeuu5.github.io/adwaith-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-zeuu5.github.io-4f46e5?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"Security is not a product, but a process — and I intend to master the process."</em>
+  <em>"The best offense is knowing exactly where the defense breaks."</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9,4f46e5,7c3aed&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f,6d28d9,4f46e5&height=120&section=footer" />
 </p>
